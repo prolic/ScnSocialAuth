@@ -30,6 +30,9 @@
     "require-dev": {
         "mockery/mockery": "0.8.0"
     },
+    "replace": {
+        "socalnick/scn-social-auth": "1.17.2"
+    },
     "autoload": {
         "psr-0": {
             "ScnSocialAuth": "src/",
